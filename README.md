@@ -26,6 +26,8 @@ Considering that the most highly valued giveaways are for our token holders, the
 - Gather addresses from a specific channel
 - Export winners and addresses to spreadsheet format
 - Create, prematurely end, cancel and list all giveaways
+- Role filtering - only a certain role can sign up for a giveaway
+- Multiple token bonus - give your biggest holders multiple entries
 
 ## For multiple token holders
 
