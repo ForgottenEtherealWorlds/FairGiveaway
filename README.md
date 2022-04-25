@@ -24,7 +24,7 @@ Considering that the most highly valued giveaways are for our token holders, the
 - Whisper winner list upon giveaway expiry
 - Add winners to a specific channel
 - Gather addresses from a specific channel
-- Export winners and addresses to spreadsheet format
+- Export winners and addresses to a spreadsheet format
 - Create, prematurely end, cancel and list all giveaways
 - Role filtering - only a certain role can sign up for a giveaway
 - Multiple token bonus - give your biggest holders multiple entries
