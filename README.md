@@ -15,7 +15,7 @@ The bot analyses statistics in terms of amount of wins, how recently a win was m
 
 For example: FEW has exclusive and high-value giveaways for our token holders, their role called *Ascended*. There are also public giveaways where everyone can participate. **With the FairGiveaway system an *Ascended* user winning a public giveaway will never be negatively affected when later rolling on an *Ascended*-only giveaway, and vice versa.**
 
-Considering that the most highly valued giveaways are for our token holders, their chances to win an exclusive giveaway will remain unchanged, regardless of their participation in the public givaways.
+Considering that the most highly valued giveaways are for our token holders, their chances to win an exclusive giveaway will remain unchanged, regardless of their participation in the public giveaways.
 
 ## Features
 
