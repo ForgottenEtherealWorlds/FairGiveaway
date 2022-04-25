@@ -17,6 +17,16 @@ For example: FEW has exclusive and high-value giveaways for our token holders, t
 
 Considering that the most highly valued giveaways are for our token holders, their chances to win an exclusive giveaway will remain unchanged, regardless of their participation in the public givaways.
 
+## Features
+
+- Custom algorithm that determines the winner in a fair manner
+- Anti-cheat features (can be privately disclosed upon request)
+- Whisper winner list upon giveaway expiry
+- Add winners to a specific channel
+- Gather addresses from a specific channel
+- Export winners and addresses to spreadsheet format
+- Create, prematurely end, cancel and list all giveaways
+
 ## For multiple token holders
 
 Those holding multiple [FEW Genesis tokens](https://opensea.io/collection/forgotten-ethereal-worlds), and also our [1/1 tokens (Few Genesis Prime)](https://opensea.io/collection/forgotten-ethereal-worlds-specials), **will have multiple entries into all giveaways, effectively boosting their chances to win.** 🐋
